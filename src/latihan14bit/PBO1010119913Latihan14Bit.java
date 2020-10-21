@@ -9,8 +9,10 @@ package latihan14bit;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Kambing
  */
-public class Latihan14Bit {
+public class PBO1010119913Latihan14Bit {
 
     /**
      * @param args the command line arguments
